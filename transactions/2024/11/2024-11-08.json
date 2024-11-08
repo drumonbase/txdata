@@ -622,5 +622,37 @@
     "transactionFee": 0.000017515539496872,
     "transactionFeeInUSD": 2.979568423812896e-9,
     "valueInTokens": 230999.48736046604
+  },
+  {
+    "hash": "0xddff5b18c5d588c7b39556f2ed3f7a2ecbfe5fd0cd9b0d2e4d4583357df71410",
+    "txDate": "2024-11-08T00:09:17.000Z",
+    "dateNow": "2024-11-08T00:10:03.210Z",
+    "valueInUSD": "42.43",
+    "marketCap": "71525565.52",
+    "tokenPrice": 0.00017011,
+    "blockNumber": "22117605",
+    "from": "0xff487e3876ac20d0b5e831d83f4d8e2876de8a77",
+    "to": "0x4b0aaf3ebb163dd45f663b38b6d93f6093ebc2d3",
+    "tokenSymbol": "TOSHI",
+    "tokenDecimal": "18",
+    "transactionFee": 0.00000158121085527,
+    "transactionFeeInUSD": 2.6897977858997975e-10,
+    "valueInTokens": 249454.79156895
+  },
+  {
+    "hash": "0x518f66dd147eb245fad2221a4974673232faf71bf3e82dc9db404697d7d570e4",
+    "txDate": "2024-11-08T00:09:07.000Z",
+    "dateNow": "2024-11-08T00:10:03.210Z",
+    "valueInUSD": "15.33",
+    "marketCap": "71525565.52",
+    "tokenPrice": 0.00017011,
+    "blockNumber": "22117600",
+    "from": "0x524f760e045cc1f5d4ec4f8a9a3bf46d20bf2fea",
+    "to": "0x524f760e045cc1f5d4ec4f8a9a3bf46d20bf2fea",
+    "tokenSymbol": "TOSHI",
+    "tokenDecimal": "18",
+    "transactionFee": 0.00000579066436872,
+    "transactionFeeInUSD": 9.850499157629593e-10,
+    "valueInTokens": 90120.13500000001
   }
 ]
